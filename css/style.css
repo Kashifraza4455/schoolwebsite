@@ -505,3 +505,7 @@ h6,
 .logo .logo1{
     width: 20%;
 }
+.logo {
+    position: relative;
+    left: 113px;
+}

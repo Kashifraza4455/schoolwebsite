@@ -4615,7 +4615,10 @@ fieldset:disabled .btn {
 
     .navbar-expand-lg .navbar-collapse {
         display: flex !important;
-        /* flex-basis: auto */
+        /* margin: 0px 117px; */
+        position: relative;
+        /* flex-basis: auto; */
+        right: 123px;
     }
 
     .navbar-expand-lg .navbar-toggler {
