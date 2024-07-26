@@ -332,6 +332,7 @@ h6,
 
 .facility-item:hover * {
     color: #FFFFFF !important;
+    cursor: pointer;
 }
 
 
@@ -508,4 +509,8 @@ h6,
 .logo {
     position: relative;
     left: 113px;
+}
+
+.facility-item .icon {
+    font-size: 48px;
 }
