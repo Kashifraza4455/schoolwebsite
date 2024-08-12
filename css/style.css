@@ -514,3 +514,8 @@ h6,
 .facility-item .icon {
     font-size: 48px;
 }
+
+.copyright .text{
+    position: relative;
+    left: 300px;
+}
